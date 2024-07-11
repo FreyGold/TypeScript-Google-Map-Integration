@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "faker": "^6.6.6",
+    "parcel-bundler": "^1.12.5"
+  }
+}
